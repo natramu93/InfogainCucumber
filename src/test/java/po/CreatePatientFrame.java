@@ -11,4 +11,5 @@ public class CreatePatientFrame {
 	public static By calendar_label = By.className("xdsoft_label");
 	public static By gender_dropdown = By.id("form_sex");
 	public static By create_btn = By.id("create");
+	public static By new_loc = By.id("");
 }
